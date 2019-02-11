@@ -1,0 +1,4 @@
+matplotlib
+numpy
+imutils
+opencv-python
